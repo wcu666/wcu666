@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://YOUR_WEBSITE_URL" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-4F46E5?style=for-the-badge&logoColor=white" alt="Website" />
+  <a href="https://你的BIO網址" target="_blank">
+    <img src="https://img.shields.io/badge/✨_My_Links-Click_Here-FF70A6?style=for-the-badge&logoColor=white" alt="My Links" />
   </a>
 </p>
 
