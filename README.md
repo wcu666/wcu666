@@ -1,18 +1,4 @@
-<div align="center">
-  
-  # Hi, I'm Chang-Yu Wu 👋
-  **Physics Student | Web Developer | Simulation Enthusiast**
-  
-  <br>
-  
-  <!-- 這是前往你個人網站的酷炫按鈕 -->
-  <a href="https://wcu666.github.io">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Personal_Website-1A252F?style=for-the-badge&logoColor=white" alt="Personal Website"/>
-  </a>
 
-</div>
-
-<br>
 
 ### 📊 Coding Activity & Stats
 
