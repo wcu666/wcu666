@@ -8,5 +8,5 @@
 
 <p align="center">
   <!-- 第二排：連續打卡紀錄 (已加上強制刷新 &v=1) -->
-  <img src="https://streak-stats.demolab.com/?user=wcu666&theme=maroongold&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wcu666&theme=maroongold&v" alt="GitHub Streak" />
 </p>
