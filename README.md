@@ -8,7 +8,4 @@
 
 
 
-<p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcu666&theme=shadow_red" alt="Activity Graph" />
-</p>
