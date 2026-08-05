@@ -1,11 +1,7 @@
 <p align="center">
-
-  <a href="https://wcu666.github.io/personal-website/" target="_blank">
-
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-4F46E5?style=for-the-badge&logoColor=white" alt="Website" /> 
-
+  <a href="https://YOUR_WEBSITE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-4F46E5?style=for-the-badge&logoColor=white" alt="Website" />
   </a>
-
 </p>
 
 
